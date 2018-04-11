@@ -1,0 +1,22 @@
+.outer {
+    display: inline;
+    top: 0;
+}
+
+.middle {
+    display: inline;
+    top: 50%;
+    position: relative;
+}
+
+.inner {
+    display: inline;
+    top: -50%;
+    position: relative;
+}
+
+h1 small {
+	color: #5F5F5F;
+	line-height: 0.95em;
+	padding-bottom: 15px;
+}

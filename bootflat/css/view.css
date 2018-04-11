@@ -1,0 +1,21 @@
+h3, .h3{
+	font-size: 32px;
+	letter-spacing: -1px;
+}
+
+.col-md-6{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+table {
+	width:90%;
+}
+
+td {
+	padding-left:0px;
+}
+
+tr {
+	border-bottom:1px solid #BDBDBD;
+}
